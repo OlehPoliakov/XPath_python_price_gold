@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+env/
+.vscode/
+
+# Heroku
+.idea/
+.DS_Store
